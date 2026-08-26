@@ -34,10 +34,10 @@
 
   /* ---- COLOUR ------------------------------------------- */
 
-  --paper:  #f2f0eb;   /* the page background                    */
+  --paper:  #a5d4fa;   /* the page background                    */
   --ink:    #1a1a1a;   /* the main text                          */
   --soft:   #7a756c;   /* small grey text: dates, captions       */
-  --accent: #c0392b;   /* links and small highlights             */
+  --accent: #0b5999;   /* links and small highlights             */
   --line:   #d9d4c8;   /* the thin dividing lines                */
 
 
@@ -80,7 +80,7 @@
 
   /* Rounded corners on images and boxes.
      try 0 (hard)  ·  6px  ·  999px (fully round)                  */
-  --radius: 2px;
+  --radius: 20px;
 
 
   /* ---- THE TWO FUN ONES ----------------------------------- */
@@ -141,7 +141,7 @@
 */
 
 
-/*  ---------- PRESET C · SWISS ----------
+---------- PRESET C · SWISS ----------
 :root {
   --paper: #ffffff;  --ink: #111111;  --soft: #888888;
   --accent: #e2231a; --line: #dddddd;
@@ -150,7 +150,6 @@
   --size-name: 2.4rem;  --tracking: -0.03em;  --heading-case: uppercase;
   --measure: 34rem;  --leading: 1.5;  --radius: 0;
 }
-*/
 
 
 /*  ---------- PRESET D · SOFT ----------
