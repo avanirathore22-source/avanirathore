@@ -345,7 +345,6 @@ a {
    width: 100px
    height: 40px
    border: none;
-   border-radius: 10px;
       transition: width 0.3s ease;
   text-decoration: none;
   border-bottom: 1px solid var(--accent);
@@ -356,7 +355,7 @@ a:hover {
    width: 150px
    height: 40px
   background: var(--accent);
-  color: var(--paper);
+  color: var(--accent);
 }
 
 
