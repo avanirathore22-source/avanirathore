@@ -34,7 +34,7 @@
 
   /* ---- COLOUR ------------------------------------------- */
 
-  --paper:  #cfe9ff;   /* the page background                    */
+  --paper:  #e1ecf5;   /* the page background                    */
   --ink:    #1a1a1a;   /* the main text                          */
   --soft:   #7a756c;   /* small grey text: dates, captions       */
   --accent: #0b5999;   /* links and small highlights             */
@@ -49,7 +49,7 @@
        "Helvetica Neue", Helvetica, Arial, sans-serif
        "Courier New", monospace
        Impact, "Arial Black", sans-serif                        */
-  --font-display: Georgia, "Times New Roman", serif;
+  --font-display: "Courier New", monospace;
 
   /* The typeface for ordinary paragraphs.
      It is usually a good idea for this to be different from
