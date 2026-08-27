@@ -341,9 +341,10 @@ li {
 /* ---- Links ---- */
 
 a {
-  color: var(--accent);
+  color: #0b5999 ;
+   background-color: var(--paper);
    border: none;
-      transition: width 0.3s ease;
+   transition: width 0.3s ease;
   text-decoration: none;
   border-bottom: 1px solid var(--accent);
 }
@@ -352,7 +353,7 @@ a {
 a:hover {
    width: 150px
    height: 40px
-  background: #0b5999;
+  background-color: #0b5999;
   color: var(--accent);
 }
 
